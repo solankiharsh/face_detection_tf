@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_31.jpg</filename>
+	<path>C:\Users\Harsh Solanki\Downloads\object_detection_dataset\images\img_31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>782</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harsh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>10</ymin>
+			<xmax>417</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
